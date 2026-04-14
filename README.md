@@ -1,4 +1,4 @@
-# trail_robot
+# Trail Robot
 
 Arduino/ESP32 sketches for a trail robot and sensor monitoring setup.
 
